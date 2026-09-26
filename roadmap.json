@@ -189,6 +189,14 @@
       "status": "far-future",
       "description": "Centralized licensing, download entitlement and update-delivery infrastructure for paid Kruiger Labs products.",
       "addedDate": "2026-09-24"
+    },
+    {
+      "id": "kruigerevidence-witness",
+      "title": "KruigerEvidence/Witness",
+      "category": "Script",
+      "status": "in-development",
+      "description": "KruigerLabs witness / evidence systems",
+      "addedDate": "2026-09-26"
     }
   ]
 }

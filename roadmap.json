@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-26",
+  "statuses": [
+    "planned",
+    "near-future",
+    "in-development",
+    "testing",
+    "releasing-soon",
+    "far-future",
+    "on-hold",
+    "completed",
+    "cancelled"
+  ],
+  "items": [
+    {
+      "id": "kruigercoords",
+      "title": "KruigerCoords",
+      "category": "FiveM",
+      "status": "completed",
+      "description": "Standalone FiveM coordinate utility that copies the player's vector4 coordinates for development and configuration work.",
+      "completedDate": "2026-09-21",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "kruigerdv",
+      "title": "KruigerDV",
+      "category": "FiveM",
+      "status": "completed",
+      "description": "Standalone vehicle deletion resource providing /dv support for deleting the current or nearest vehicle.",
+      "completedDate": "2026-09-21",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "kruigernpc",
+      "title": "KruigerNPC",
+      "category": "FiveM",
+      "status": "completed",
+      "description": "Standalone ACE-restricted NPC and traffic control resource with /togglenpc.",
+      "completedDate": "2026-09-21",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "kruigerspeedlimit",
+      "title": "KruigerSpeedLimit",
+      "category": "FiveM",
+      "status": "completed",
+      "description": "Configurable global FiveM speed-limit system with ACE bypass support and optional vehicle-class limits.",
+      "completedDate": "2026-09-21",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "kruigerhud",
+      "title": "Kruiger HUD",
+      "category": "FiveM",
+      "status": "completed",
+      "description": "Kruiger Labs HUD package released as part of the paid FiveM product line, with standalone and combined ecosystem support.",
+      "completedDate": "2026-09-21",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "kruigerheadtags",
+      "title": "Kruiger Headtags",
+      "category": "FiveM",
+      "status": "completed",
+      "description": "Configurable FiveM headtag package supporting custom department and tag configuration.",
+      "completedDate": "2026-09-21",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "kruigerduty",
+      "title": "Kruiger Duty",
+      "category": "FiveM",
+      "status": "completed",
+      "description": "FiveM duty-management package released as a standalone Kruiger Labs product.",
+      "completedDate": "2026-09-21",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "kruigerchat",
+      "title": "Kruiger Chat",
+      "category": "FiveM",
+      "status": "completed",
+      "description": "Custom FiveM chat package with configurable commands and server integration.",
+      "completedDate": "2026-09-21",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "kruigerpriority",
+      "title": "Kruiger Priority",
+      "category": "FiveM",
+      "status": "completed",
+      "description": "FiveM priority-management package released as a standalone product and integrated into the combined HUD ecosystem.",
+      "completedDate": "2026-09-21",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "live-project-catalog",
+      "title": "GitHub-Driven Project Catalog",
+      "category": "Website",
+      "status": "completed",
+      "description": "Kruiger Labs projects catalog that pulls public project information from GitHub and separates free projects, bots, paid products and liveries.",
+      "completedDate": "2026-09-22",
+      "addedDate": "2026-09-21"
+    },
+    {
+      "id": "docs-faq",
+      "title": "Kruiger Labs Docs & FAQ",
+      "category": "Website",
+      "status": "completed",
+      "description": "Documentation experience with dedicated /docs and /docs/faq areas for products, scripts, troubleshooting and support information.",
+      "completedDate": "2026-09-23",
+      "addedDate": "2026-09-23"
+    },
+    {
+      "id": "vanta",
+      "title": "Vanta",
+      "category": "Discord Bot",
+      "status": "completed",
+      "description": "Public multi-server Kruiger Labs Discord bot providing moderation, tickets, music, economy, leveling, giveaways, automod, reaction roles and server-management capabilities.",
+      "completedDate": "2026-09-08",
+      "addedDate": "2026-09-08"
+    },
+    {
+      "id": "kruigerfilesafe",
+      "title": "KruigerFileSafe",
+      "category": "Security",
+      "status": "completed",
+      "description": "Private asset-protection system with Discord-first asset fingerprinting, FiveM archive and manifest matching, GitHub/Tebex monitoring, audit storage and human-review workflows.",
+      "completedDate": "2026-09-22",
+      "addedDate": "2026-09-22"
+    },
+    {
+      "id": "roadmap-platform",
+      "title": "Public Kruiger Labs Roadmap",
+      "category": "Website",
+      "status": "in-development",
+      "description": "GitHub-backed public roadmap for Kruiger Labs with status stages, descriptions, dated completion history and management through Sally.",
+      "addedDate": "2026-09-26"
+    },
+    {
+      "id": "sally-roadmap",
+      "title": "Sally Roadmap Management",
+      "category": "Discord Bot",
+      "status": "planned",
+      "description": "Add restricted /roadmap management commands to Sally so authorized Kruiger Labs developers can create, edit, move, complete and archive roadmap entries from Discord.",
+      "addedDate": "2026-09-26"
+    },
+    {
+      "id": "kruigerblackbox",
+      "title": "KruigerBlackbox",
+      "category": "FiveM",
+      "status": "far-future",
+      "description": "Standalone vehicle event-data recorder concept that preserves roughly the last 60 seconds of telemetry so authorized users can inspect crash data after a collision.",
+      "addedDate": "2026-09-25"
+    },
+    {
+      "id": "rvrp-vehicle-radio",
+      "title": "Vehicle-Mounted Radio System",
+      "category": "FiveM",
+      "status": "planned",
+      "description": "Custom synchronized vehicle-mounted radio system with prop placement, saved positioning, vehicle controls and configurable distance-based 3D audio.",
+      "addedDate": "2026-09-25"
+    },
+    {
+      "id": "checkout-system",
+      "title": "Kruiger Labs Checkout System",
+      "category": "Infrastructure",
+      "status": "planned",
+      "description": "Invoice and checkout workflow designed to create payment links from Discord and later connect fulfillment and customer delivery to Kruiger Labs services.",
+      "addedDate": "2026-09-24"
+    },
+    {
+      "id": "unified-dashboard",
+      "title": "Unified Kruiger Labs Bot Dashboard",
+      "category": "Website",
+      "status": "far-future",
+      "description": "Central dashboard direction for managing supported Kruiger Labs bots and connected services from one interface.",
+      "addedDate": "2026-09-24"
+    },
+    {
+      "id": "license-entitlements",
+      "title": "License & Download Entitlements",
+      "category": "Infrastructure",
+      "status": "far-future",
+      "description": "Centralized licensing, download entitlement and update-delivery infrastructure for paid Kruiger Labs products.",
+      "addedDate": "2026-09-24"
+    }
+  ]
+}

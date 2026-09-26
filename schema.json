@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Kruiger Labs Roadmap",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "updatedAt",
+    "statuses",
+    "items"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "integer"
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date"
+    },
+    "statuses": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "category",
+          "status",
+          "description",
+          "addedDate"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "addedDate": {
+            "type": "string",
+            "format": "date"
+          },
+          "completedDate": {
+            "type": "string",
+            "format": "date"
+          },
+          "target": {
+            "type": "string"
+          },
+          "priority": {
+            "type": "string"
+          },
+          "progress": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "projectUrl": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

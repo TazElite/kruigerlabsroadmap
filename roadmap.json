@@ -205,6 +205,14 @@
       "status": "planned",
       "description": "Major Vanta update focused on expanding existing systems, improving reliability and performance, refining the dashboard experience, and delivering new bot features and quality-of-life improvements across Vanta.",
       "addedDate": "2026-09-26"
+    },
+    {
+      "id": "kruiger-weather-systems",
+      "title": "Kruiger Weather Systems",
+      "category": "FiveM",
+      "status": "far-future",
+      "description": "Advanced FiveM weather and environmental system featuring configurable weather cycles, synchronized conditions, severe weather events, administrator controls, regional effects, and support for immersive emergency scenarios such as hurricanes, blizzards, heavy storms, extreme heat, and other dynamic weather events.",
+      "addedDate": "2026-09-26"
     }
   ]
 }

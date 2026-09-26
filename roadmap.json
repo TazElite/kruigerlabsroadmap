@@ -203,6 +203,14 @@
       "status": "far-future",
       "description": "Advanced FiveM weather and environmental system featuring configurable weather cycles, synchronized conditions, severe weather events, administrator controls, regional effects, and support for immersive emergency scenarios such as hurricanes, blizzards, heavy storms, extreme heat, and other dynamic weather events.",
       "addedDate": "2026-09-26"
+    },
+    {
+      "id": "kruiger-admin-zones",
+      "title": "Kruiger Admin Zones",
+      "category": "FiveM",
+      "status": "planned",
+      "description": "Administrative zone management system allowing authorized staff to create temporary or permanent zones with configurable boundaries, map indicators, player notifications, access restrictions, speed limits, vehicle and weapon rules, NPC and traffic controls, and automatic expiration. Zones can be created and managed in-game with permission-based administrative controls.",
+      "addedDate": "2026-09-26"
     }
   ]
 }

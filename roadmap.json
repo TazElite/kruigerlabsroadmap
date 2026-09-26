@@ -144,9 +144,11 @@
       "id": "sally-roadmap",
       "title": "Sally Roadmap Management",
       "category": "Discord Bot",
-      "status": "planned",
+      "status": "completed",
       "description": "Add restricted /roadmap management commands to Sally so authorized Kruiger Labs developers can create, edit, move, complete and archive roadmap entries from Discord.",
-      "addedDate": "2026-09-26"
+      "addedDate": "2026-09-26",
+      "progress": 100,
+      "completedDate": "2026-09-26"
     },
     {
       "id": "kruigerblackbox",

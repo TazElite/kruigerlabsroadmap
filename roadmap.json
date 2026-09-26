@@ -134,9 +134,11 @@
       "id": "roadmap-platform",
       "title": "Public Kruiger Labs Roadmap",
       "category": "Website",
-      "status": "in-development",
+      "status": "completed",
       "description": "GitHub-backed public roadmap for Kruiger Labs with status stages, descriptions, dated completion history and management through Sally.",
-      "addedDate": "2026-09-26"
+      "addedDate": "2026-09-26",
+      "progress": 100,
+      "completedDate": "2026-09-26"
     },
     {
       "id": "sally-roadmap",

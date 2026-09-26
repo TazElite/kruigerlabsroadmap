@@ -197,6 +197,14 @@
       "status": "in-development",
       "description": "KruigerLabs witness / evidence systems",
       "addedDate": "2026-09-26"
+    },
+    {
+      "id": "vanta-2-6-0",
+      "title": "Vanta 2.6.0",
+      "category": "Discord Bot",
+      "status": "planned",
+      "description": "Major Vanta update focused on expanding existing systems, improving reliability and performance, refining the dashboard experience, and delivering new bot features and quality-of-life improvements across Vanta.",
+      "addedDate": "2026-09-26"
     }
   ]
 }

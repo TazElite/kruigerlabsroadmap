@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-29",
   "statuses": [
     "planned",
     "near-future",
@@ -211,6 +211,14 @@
       "status": "planned",
       "description": "Administrative zone management system allowing authorized staff to create temporary or permanent zones with configurable boundaries, map indicators, player notifications, access restrictions, speed limits, vehicle and weapon rules, NPC and traffic controls, and automatic expiration. Zones can be created and managed in-game with permission-based administrative controls.",
       "addedDate": "2026-09-26"
+    },
+    {
+      "id": "kruigerlabs-studio",
+      "title": "KruigerLabs Studio",
+      "category": "Website / FiveM",
+      "status": "planned",
+      "description": "FiveMAn all-in-one FiveM development workspace integrated directly into KruigerLabs. FiveM Studio will give developers and server owners a centralized place to create, edit, preview, and manage FiveM assets without jumping between multiple tools or websites.",
+      "addedDate": "2026-09-29"
     }
   ]
 }

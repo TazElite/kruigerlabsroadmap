@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-10-01",
   "statuses": [
     "planned",
     "near-future",
@@ -216,7 +216,7 @@
       "id": "kruigerlabs-studio",
       "title": "KruigerLabs Studio",
       "category": "Website / FiveM",
-      "status": "planned",
+      "status": "in-development",
       "description": "FiveMAn all-in-one FiveM development workspace integrated directly into KruigerLabs. FiveM Studio will give developers and server owners a centralized place to create, edit, preview, and manage FiveM assets without jumping between multiple tools or websites.",
       "addedDate": "2026-09-29"
     }
